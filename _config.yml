@@ -3,7 +3,6 @@ baseurl: "https://nottaro.github.io/photography/"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography"
@@ -19,10 +18,7 @@ footer:
 web_design: "AJ"
 
 social_urls:
-  twitter: "https://www.twitter.com/rampatra_"
   instagram: "https://www.instagram.com/jayjontyphotography"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
   github: "https://www.github.com/nottaro"
 
 # Configure which exif data to display
